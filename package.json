@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jasperingo/jenkins-nodejs/issues"
   },
-  "homepage": "https://github.com/jasperingo/jenkins-nodejs#readme"
+  "homepage": "https://github.com/jasperingo/jenkins-nodejs#readme",
+  "dependencies": {
+    "log-beautify": "^1.2.0"
+  }
 }
